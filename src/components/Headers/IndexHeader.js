@@ -42,7 +42,7 @@ function IndexHeader() {
             <h1 className="h1-seo">universidad tecnologica de durango</h1>
             <h3>Nombre del alumno: Erick Yahir Meraz Solis</h3>
             <h3>GESTIÓN DEL PROCESO DE SOFTWARE</h3>
-            <h3>EXAMEN DE RECUPERACIÓN (PARCIAL I)</h3>
+            <h3>PARCIAL I</h3>
 
           </div>
           <h6 className="category category-absolute">
